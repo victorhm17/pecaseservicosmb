@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Coustard|Open+Sans);
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: CorpoS;
 	font-size: 14px;
 	line-height: 21px;
 	font-weight:400;
@@ -12,7 +12,7 @@ body {
 	background: #000;
 }
 h1, h2, h3, h4, h5, h6{
-	font-family: 'Coustard', serif;
+	font-family: CorpoA;
 	color:#fff;
 	font-weight: normal;
 	letter-spacing: 1px;
